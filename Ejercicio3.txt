@@ -1,0 +1,6 @@
+Ejercicio 3:
+Pasos para la solución:
+•	Crear una nueva clase: AlarmaEmergencia que sea hija de Alarma
+•	Crear un método m1 que sobreescriba el método de Alarma para que imprima “Emergencia 1”
+•	Crear un método m2 que llame a los métodos m1 y m2 de Alarma para que estos se impriman ya que estos tienen la instrucción de imprimir “alarma 1” y “timbre 1” respectivamente. “timbre 1” se llama desde la clase Timbre que es padre de Alarma
+•	Se crea un toString de la clase AlarmaEmergencia en el cual primero se coloca “emergencia “ y se la agrega el método toString de la clase Alarma que incluye el “Ring…Ring…Ring…Ring”

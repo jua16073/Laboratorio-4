@@ -1,0 +1,8 @@
+Ejercicio 4:
+Pasos:
+•	Se creó una clase soldado que fuera hija de Militar
+•	Se hizo un método getSalario que usara el dato del padre y les restara 10000 para tener su salario
+•	Se creó una metodo getHoras que también usara los datos del padre y los multiplicara por dos
+•	Se creó un método que usara los datos del padre y los dividiera dentro de 2
+•	Se creó un método recibeOrden que regresara “Ordene mi General”
+•	Se comprobó en un Driver que funcionara
