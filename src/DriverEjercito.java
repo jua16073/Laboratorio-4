@@ -1,4 +1,9 @@
-
+/*
+	@author: Rodrigo Juarez (16073)
+	@Proposito: Laboratorio 4
+	@Date: 14-10-2016
+	Soldado.java
+*/
 public class DriverEjercito {
 
 	public static void main(String[] args) {
